@@ -1,0 +1,43 @@
+- Exam:
+	- Multiple choice
+	- auto-graded stuff
+- Practical:
+	- 3 networks we need to make
+		- Floor 3: Faculty network
+		- Floor 2: Faculty & student
+		- Floor 1: Student & guest
+	- Student
+		- 1500 IPs
+		- Wifi
+		- Add color
+		- Connected to server
+		- Password
+		- 4 devices to represent
+			- 2 wired
+			- 2 wireless
+			- 1 on each floor
+		- 1 server
+		- 1 printer for student and faculty
+	- Faculty 300 IPs wifi
+		- 300 IPs
+		- Wifi
+		- Wired
+		- Color
+		- Connected to server
+		- Password
+		- 4 devices to represent
+			- 2 wired
+			- 2 wireless
+			- 1 on each floor
+		- 1 server
+		- 1 printer for student and faculty
+	- Guest
+		- 3000 IPs
+		- All wireless
+		- Color
+		- Connected to server
+	- 1 server
+	- 1 printer for student
+
+	- Don't waste IPs
+	- Know how to use APs

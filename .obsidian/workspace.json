@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "36f6d8002b6c7f93",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f56e506735929f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "180d3193b236a663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Risk Identification Essay/Facts & Sources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31d406075a678624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity Analytics/Cybersecurity Essentials/Week 2/Acceptable Risks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3089cc6b3781b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity Analytics/Cybersecurity Essentials/Week 2/Risk Communication Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dcba299ac5e909f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity Analytics/Scripting for Data Science/Week 2/Data Structures and Sequences.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb2ea2de34429860",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5b1c0ccb6fb4a1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b846d7b75794a981",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0826d358272cc9f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c0566ef40aa9dd4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "ac1e17204d3cf89b",
+    "type": "split",
+    "children": [
+      {
+        "id": "14d407538d092c63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "075b9f59d92d0ac0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Risk Identification Essay/Facts & Sources.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42d83937abbcde62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Risk Identification Essay/Facts & Sources.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0eec810ec5a4a2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "600898072af3be28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Risk Identification Essay/Facts & Sources.md"
+              }
+            }
+          },
+          {
+            "id": "3ef063c5377ca965",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b846d7b75794a981",
+  "lastOpenFiles": [
+    "Cybersecurity Analytics/Scripting for Data Science/Week 2/Functions.md",
+    "Cybersecurity Analytics/Scripting for Data Science/Week 2/Data Structures and Sequences.md",
+    "Cybersecurity Analytics/Cybersecurity Essentials/Week 2/Risk Communication Plan.md",
+    "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Getting Started with Cybersecurity Science.md",
+    "Cybersecurity Analytics/Cybersecurity Essentials/Week 2/Acceptable Risks.md",
+    "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Risk Identification Essay/Facts & Sources.md",
+    "Cybersecurity Analytics/Scripting for Data Science/Week 1/Data Structures.md",
+    "Cybersecurity Analytics/Scripting for Data Science/Week 2",
+    "Cybersecurity Analytics/Cybersecurity Essentials/Week 2",
+    "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Risk Identification Essay/Risk Identification.md",
+    "t-mobile.com/news/network.md",
+    "t-mobile.com/news",
+    "t-mobile.com",
+    "t-mobile.com/news/network 1.md",
+    "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Defining Risk.md",
+    "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Marketing Claims.png",
+    "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Risk Identification Essay",
+    "Computer Science/Network Fundamentals/Tech Journal.md",
+    "Computer Science/Network Fundamentals/Lab 12-2 Building a WLAN in Packet Tracer.md",
+    "Computer Science/Network Fundamentals/Final.md",
+    "Computer Science/Image Technology/What is Art.md",
+    "Computer Science/Image Technology/20 Rules for Making Good Design.md",
+    "Computer Science/Computer Architecture/Binary.md",
+    "Cybersecurity Analytics/Cybersecurity Essentials/Week 1",
+    "Cybersecurity Analytics/Cybersecurity Essentials",
+    "Media Production/Show Producing I/Final/Final Proposal.md",
+    "Hello World.md",
+    "2024-06-24.md",
+    "Apps/Apps.md",
+    "Cybersecurity Analytics/Scripting for Data Science/Week 1",
+    "Cybersecurity Analytics/Scripting for Data Science",
+    "Cybersecurity Analytics"
+  ]
+}

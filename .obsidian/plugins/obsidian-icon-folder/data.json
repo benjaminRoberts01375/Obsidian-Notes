@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiPencilRulerFill",
+      "LiClipboardCopy",
+      "CoBook",
+      "RiSmartphoneLine",
+      "🖥",
+      "LiClapperboard",
+      "OcShieldLock16",
+      "RiChat3Fill"
+    ],
+    "recentlyUsedIconsSize": 25,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "Cybersecurity Analytics": "OcShieldLock16",
+  "Media Production": "LiClapperboard",
+  "Computer Science": "🖥",
+  "Apps": "RiSmartphoneLine",
+  "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Getting Started with Cybersecurity Science.md": "CoBook",
+  "Cybersecurity Analytics/Scripting for Data Science/Week 1/Data Structures.md": "RiChat3Fill",
+  "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Defining Risk.md": "RiChat3Fill",
+  "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Risk Identification Essay/Facts & Sources.md": "LiClipboardCopy",
+  "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Risk Identification Essay/Risk Identification.md": "RiPencilRulerFill",
+  "Cybersecurity Analytics/Cybersecurity Essentials/Week 2/Acceptable Risks.md": "RiChat3Fill",
+  "Cybersecurity Analytics/Scripting for Data Science/Week 2/Functions.md": "RiChat3Fill",
+  "Cybersecurity Analytics/Cybersecurity Essentials/Week 2/Risk Communication Plan.md": "RiPencilRulerFill",
+  "Cybersecurity Analytics/Scripting for Data Science/Week 2/Data Structures and Sequences.md": "RiPencilRulerFill"
+}
