@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Analytics/Scripting for Data Science/Week 3/Data Science Libraries.md",
-                "mode": "preview",
+                "file": "Cybersecurity Analytics/Cybersecurity Essentials/Week 3/Risks Requiring Immediate Action.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity Analytics/Scripting for Data Science/Week 3/Data Science Libraries.md",
+                "file": "Cybersecurity Analytics/Cybersecurity Essentials/Week 3/Risks Requiring Immediate Action.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity Analytics/Scripting for Data Science/Week 3/Data Science Libraries.md",
+                "file": "Cybersecurity Analytics/Cybersecurity Essentials/Week 3/Risks Requiring Immediate Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity Analytics/Scripting for Data Science/Week 3/Data Science Libraries.md"
+                "file": "Cybersecurity Analytics/Cybersecurity Essentials/Week 3/Risks Requiring Immediate Action.md"
               }
             }
           },
@@ -196,8 +196,10 @@
   },
   "active": "1dcba299ac5e909f",
   "lastOpenFiles": [
-    "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Risk Identification Essay/Facts & Sources.md",
     "Cybersecurity Analytics/Scripting for Data Science/Week 3/Data Science Libraries.md",
+    "Cybersecurity Analytics/Cybersecurity Essentials/Week 3/Risks Requiring Immediate Action.md",
+    "Cybersecurity Analytics/Cybersecurity Essentials/Week 3",
+    "Cybersecurity Analytics/Cybersecurity Essentials/Week 1/Risk Identification Essay/Facts & Sources.md",
     "Cybersecurity Analytics/Scripting for Data Science/Week 3",
     "Cybersecurity Analytics/Scripting for Data Science/Week 2/Functions.md",
     "Cybersecurity Analytics/Scripting for Data Science/Week 2/Data Structures and Sequences.md",
@@ -227,7 +229,6 @@
     "Hello World.md",
     "2024-06-24.md",
     "Apps/Apps.md",
-    "Cybersecurity Analytics/Scripting for Data Science/Week 1",
-    "Cybersecurity Analytics/Scripting for Data Science"
+    "Cybersecurity Analytics/Scripting for Data Science/Week 1"
   ]
 }
